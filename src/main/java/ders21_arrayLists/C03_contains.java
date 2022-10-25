@@ -10,6 +10,7 @@ public class C03_contains {
             List<Integer> sayilar = new ArrayList<>();
 
             Integer[] arr= {2,5,7,9,1,8,4,5,6,3,5,4,6};
+
             for (int i = 0; i < arr.length ; i++) {
 
                 sayilar.add(arr[i]);

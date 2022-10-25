@@ -5,7 +5,9 @@ import java.util.List;
 
 public class C01_ElementEkleme {
     public static void main(String[] args) {
+
         List<Integer> sayilar=new ArrayList<>();
+
         System.out.println(sayilar);// [ ]
 
         System.out.println(sayilar.add(10));//[true]

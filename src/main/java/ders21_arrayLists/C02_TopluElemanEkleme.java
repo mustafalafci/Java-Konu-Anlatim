@@ -16,7 +16,7 @@ public class C02_TopluElemanEkleme {
 
         for (int i = 0; i <arr.length ; i++) {
 
-            harfler.add(arr[i]);
+            harfler.add(arr[i]); //
         }
         System.out.println(harfler); // [a,e,i,o,u]
 
